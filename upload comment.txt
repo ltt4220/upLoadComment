@@ -1,0 +1,8 @@
+(上传命令）
+$git init  ----  #在当前目录新建一个Git代码库
+$git add -A/$git add *---------- #添加当前目录的所有文件到暂存区
+$git commit -m "注释"---------  #提交暂存区到仓库区
+$git log-------------  #显示当前分支的版本历史
+$git push  https://github.com/ltt4220/inherintance.git master-------------  # 上传本地指定分支到远程仓库
+（下载命令）
+$git clone https://github.com/ltt4220/wangyiemail.git------- #下载一个项目和它的整个代码历史
